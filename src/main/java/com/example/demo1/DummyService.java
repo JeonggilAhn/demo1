@@ -9,6 +9,7 @@ public class DummyService {
         return "Processed: " + input;
     }
 
+    // check
     public boolean validateUser(String username) {
         return username != null && !username.isEmpty();
     }
