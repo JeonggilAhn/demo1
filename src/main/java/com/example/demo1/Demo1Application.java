@@ -21,8 +21,8 @@ public class Demo1Application {
     public String getStatus() {
         return "Application is running!!!";
     }
-    public String getB() {
-        return "B!";
+    public String getF() {
+        return "F!";
     }
 
     public String getA() {
