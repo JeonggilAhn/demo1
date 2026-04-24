@@ -29,4 +29,8 @@ public class Demo1Application {
         return "A!";
     }
 
+    public String getC() {
+        return "C!!";
+    }
+
 }
